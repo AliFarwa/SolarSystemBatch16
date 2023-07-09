@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e04618eb-44e4-4f86-998f-0c9d269dd846" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Planet2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +37,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/User/Desktop/ADAM/SolarSystemBatch16"
+    "last_opened_file_path": "C:/Users/User/Desktop/TeamleadX/SolarSystemBatch16"
   }
 }]]></component>
   <component name="RunManager">
