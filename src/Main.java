@@ -26,7 +26,9 @@ public class Main {
         feon.temp = "25 celcius";
         feon.size = "12345 km";
 
-
+      Frozen frozen=new Frozen();
+      frozen.color="blue";
+      frozen.name="Elsa";
 
     }
 }
